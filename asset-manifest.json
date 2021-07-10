@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tumbas/static/css/main.a21651a5.chunk.css",
+    "main.js": "/tumbas/static/js/main.e18e57c8.chunk.js",
+    "main.js.map": "/tumbas/static/js/main.e18e57c8.chunk.js.map",
+    "runtime-main.js": "/tumbas/static/js/runtime-main.1317f3bc.js",
+    "runtime-main.js.map": "/tumbas/static/js/runtime-main.1317f3bc.js.map",
+    "static/js/2.14b4cc11.chunk.js": "/tumbas/static/js/2.14b4cc11.chunk.js",
+    "static/js/2.14b4cc11.chunk.js.map": "/tumbas/static/js/2.14b4cc11.chunk.js.map",
+    "index.html": "/tumbas/index.html",
+    "static/css/main.a21651a5.chunk.css.map": "/tumbas/static/css/main.a21651a5.chunk.css.map",
+    "static/js/2.14b4cc11.chunk.js.LICENSE.txt": "/tumbas/static/js/2.14b4cc11.chunk.js.LICENSE.txt",
+    "static/media/ICON.b5501d05.svg": "/tumbas/static/media/ICON.b5501d05.svg",
+    "static/media/al.a514084d.png": "/tumbas/static/media/al.a514084d.png",
+    "static/media/hd.040071fd.png": "/tumbas/static/media/hd.040071fd.png",
+    "static/media/ip.5700d49d.png": "/tumbas/static/media/ip.5700d49d.png",
+    "static/media/profile_image.6b8feb78.svg": "/tumbas/static/media/profile_image.6b8feb78.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1317f3bc.js",
+    "static/js/2.14b4cc11.chunk.js",
+    "static/css/main.a21651a5.chunk.css",
+    "static/js/main.e18e57c8.chunk.js"
+  ]
+}
